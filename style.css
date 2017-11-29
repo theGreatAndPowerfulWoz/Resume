@@ -5,21 +5,10 @@ opacity: 0;
 text-align: center;
 margin: 0;
 padding: 0;
-<<<<<<< HEAD
 font-family: 'Shadows Into Light', cursive;
 font-size: 75px;	
 }
-.two {
-	font-size: 150px;	
-	padding-top: 50px;
-	padding-bottom: 50px;
-}
-.welcome{
-	display: none;
-}
-	
-=======
-}
+
 .one {
 	font-size: 100px;
 	font-family: 'Shadows Into Light', cursive;
@@ -38,7 +27,7 @@ font-size: 75px;
 	font-size: 100px;
 	font-family: 'Shadows Into Light', cursive;
 }
->>>>>>> origin/master
+
 a:link {
     color: black;
     text-decoration: none;
