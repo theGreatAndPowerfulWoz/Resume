@@ -7,8 +7,16 @@ $(document).ready(function() {
 		});
  	});
     $('.two').click(function(){
+<<<<<<< HEAD
     	$('.hello').slideUp(1500, function(){
             $('.welcome').fadeTo('slow', 1)
         });
     });    
+=======
+    	$('*').fadeOut(1500, function(){
+    		 window.location.href = 'http://www.iamthewoz.com';
+    	});
+    });
+    
+>>>>>>> origin/master
 });

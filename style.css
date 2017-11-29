@@ -5,6 +5,7 @@ opacity: 0;
 text-align: center;
 margin: 0;
 padding: 0;
+<<<<<<< HEAD
 font-family: 'Shadows Into Light', cursive;
 font-size: 75px;	
 }
@@ -17,6 +18,27 @@ font-size: 75px;
 	display: none;
 }
 	
+=======
+}
+.one {
+	font-size: 100px;
+	font-family: 'Shadows Into Light', cursive;
+}
+.two {
+	font-size: 150px;
+	font-family: 'Amatic SC', cursive;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.three {
+	font-size: 100px;
+	font-family: 'Shadows Into Light', cursive;
+}
+.four {
+	font-size: 100px;
+	font-family: 'Shadows Into Light', cursive;
+}
+>>>>>>> origin/master
 a:link {
     color: black;
     text-decoration: none;
